@@ -1,4 +1,4 @@
-# incident-response-system-regex-basedm
+# incident-response-system-regex-based
 A modular incident response system written in Go to automatically detect and classify security threats using log message analysis and pattern matching.
 
 # 🛡️ IRS-RB — Incident Response System Regex Based in Go
