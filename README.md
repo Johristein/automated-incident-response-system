@@ -16,7 +16,9 @@ IRS-RB is a lightweight and modular security tool developed in Go for detecting 
   |------------|------------|----------|----|---------|---------|
 
 - **Example Entry**:
-- 192.168.1.5,80,443,Apache,Linux,Trojan found in binary
+- 192.168.1.238	1,753,367	OpenSSH	Ubuntu 20.04	Security anomaly detected without a matching known threat signature	Activity did not match known attack signatures but triggered alert
+![image](https://github.com/user-attachments/assets/91aeab2c-7814-458e-a044-6b2c0059e706)
+
 
 
 ---
