@@ -1,10 +1,10 @@
-# automated-incident-response-system
+# incident-response-system-regex-basedm
 A modular incident response system written in Go to automatically detect and classify security threats using log message analysis and pattern matching.
 
-# 🛡️ AIRS — Automated Incident Response System in Go
+# 🛡️ IRS-RB — Incident Response System Regex Based in Go
 
 ## 📌 Project Overview  
-AIRS is a lightweight and modular security tool developed in Go for detecting and responding to threats such as **SQL injections**, **DDoS attacks**, **phishing attempts**, and **malware infections** using **regular expressions** and structured event classification. It simulates real-time detection, alerting, classification, response, and report generation — all in a clean Go architecture.
+IRS-RB is a lightweight and modular security tool developed in Go for detecting and responding to threats such as **SQL injections**, **DDoS attacks**, **phishing attempts**, and **malware infections** using **regular expressions** and structured event classification. It simulates real-time detection, alerting, classification, response, and report generation — all in a clean Go architecture.
 
 ---
 
